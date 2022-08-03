@@ -1,0 +1,29 @@
+.registration {
+	color: #03946c;
+}
+
+.register-username > * {
+	margin: 10px;
+}
+
+.register-password > * {
+	margin: 10px;
+}
+
+.register-button {
+	padding: 5px;
+	color: white;
+	background-color: #03946c;
+	border: 1px;
+	border-radius: 5px;
+	font-size: 20px;
+	width: 100px;
+	margin: 20px;
+}
+
+.register-username > input, .register-password > input  {
+	padding: 3px;
+	width: 250px;
+	border: 1px solid #03946c;
+	border-radius: 5px;
+}
