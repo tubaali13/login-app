@@ -1,4 +1,4 @@
-Clone the repository.
+Clone (or download) the repository.
 Open login-app and login-app-backend in different terminals.
 Run the following commands in both of them.
 npm install.
