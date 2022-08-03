@@ -6,6 +6,7 @@ npm start.
 
 
 You can find the screenshots folder in the internshala folder.
-(For storing passwords encryption is used using bcrypt.)
+For storing passwords encryption is used using bcrypt.
+The UI has been made very simple as the purpose was to just show the login/registering process (if required, it can be modified).
 
 Thank you!.
